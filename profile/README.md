@@ -9,7 +9,7 @@ Yes, we are building **HM Project** on **Discord** and **NPM**.
 <br>**Thank you all** 💙!
 
 ### **💜 Below you can see our popular projects:**
-- 🤖 [HM Project](https://hmproject.tk/)
+- 🤖 [HM Project](https://hmproject.hatsunia.cfd/)
 - 📨 [HM Project TG Demo](https://t.me/HMproject_bot)
 - 💚 [HMfull](https://www.npmjs.com/package/hmfull)
 - 💓 [HMtai REST](https://hmtai.herokuapp.com/endpoints)
